@@ -18,3 +18,4 @@ php
 mysql
 httpd
 hello-world
+quay.io/prometheus/node-exporter:v1.1.2
