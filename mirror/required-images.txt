@@ -13,4 +13,10 @@
 # 此行以及以上内容请勿删除。新images在此行下添加。提交新的images时，请删除旧的images
 
 
-quay.io/prometheus/prometheus:v2.26.0
+amazon/aws-alb-ingress-controller
+amazon/aws-ebs-csi-driver
+amazon/aws-efs-csi-driver
+amazon/aws-for-fluent-bit
+amazon/aws-node-termination-handler
+amazon/cloudwatch-agent
+nginx
