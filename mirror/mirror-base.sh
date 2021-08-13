@@ -1,8 +1,8 @@
 #!/bin/bash
 # set -x
 
-ECR_REGION='cn-northwest-1'
-ECR_DN="048912060910.dkr.ecr.${ECR_REGION}.amazonaws.com.cn"
+ECR_REGION='cn-north-1'
+ECR_DN="260120509955.dkr.ecr.${ECR_REGION}.amazonaws.com.cn"
 IMAGES_BLACKLIST='blacklist-images.txt'
 IMAGES_IGNORE_LIST='ignore-images.txt'
 
