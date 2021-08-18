@@ -12,11 +12,7 @@
 #amazon/aws-node-termination-handler:v1.3.1
 # 此行以及以上内容请勿删除。新images在此行下添加。提交新的images时，请删除旧的images
 
-quay.io/prometheus/alertmanager:v0.21.0
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.1.1
-prom/pushgateway:v1.3.1
-quay.io/jetstack/cert-manager-webhook:v1.1.1
-amazon/aws-alb-ingress-controller:v2.2.0
-quay.io/jetstack/cert-manager-webhook:v1.1.1
-k8s.gcr.io/metrics-server/metrics-server:v0.5.0
-jimmidyson/configmap-reload:v0.5.0
+quay.io/jetstack/cert-manager-controller:v1.1.1
+quay.io/jetstack/cert-manager-cainjector:v1.1.1
+amazon/aws-node-termination-handler:v1.9.0
+amazon/aws-alb-ingress-controller:v2.2.3
