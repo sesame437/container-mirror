@@ -1,1 +1,3 @@
 quay.io/prometheus/prometheus:v2.26.0
+amazon/cloudwatch-agent:1.247348.0b251302
+fluent/fluentd-kubernetes-daemonset:v1.7.3-debian-cloudwatch-1.0
